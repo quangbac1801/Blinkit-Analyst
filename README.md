@@ -18,10 +18,11 @@ Tập dữ liệu bao gồm các thông tin giao dịch từ Blinkit gồm các 
 - Rating:Đánh giá của sản phẩm.
 # Data Visualization
 ![image](https://github.com/user-attachments/assets/fb113f4f-d023-45fc-a281-c2b0181d9aed)
-Total Sales: Tổng doanh số là $1.20M.
-Average Sales: Doanh số trung bình là $141.
-Number of Items: Tổng số sản phẩm là  1559.
-Average Rating: Mức đánh giá trung bình 3.9.
+- Total Sales: Tổng doanh số là $1.20M.
+- Average Sales: Doanh số trung bình là $141.
+- No of Items: Tổng số sản phẩm là  1559.
+- Average Rating: Mức đánh giá trung bình 3.9.
+
 
 
 
